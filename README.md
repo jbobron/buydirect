@@ -2,7 +2,9 @@ Todos
 -add styling library (Foundation/material)
 -hook up to stitch labs, see tutorial (might be a react tutorial too)
 -one click sign up with fb/google
-
+-create testing/production environments/urls (always create branches off master, do not allow for 'git push origin master')
+  -create a deploy command in package.json
+  -when merged from feature branch into master, the changes should automatically be in the testing environment
 
 flow:
 1.user clicks sign in
