@@ -1,0 +1,19 @@
+{
+  "name": "buy-direct",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbobron/buydirect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbobron/buydirect/issues"
+  },
+  "homepage": "https://github.com/jbobron/buydirect#readme"
+}
