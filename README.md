@@ -1,4 +1,5 @@
 ## Todos
+- [x] style todo list markdown
 - [ ] add styling library (Foundation/material)
 - [ ] hook up to stitch labs, see tutorial (might be a react tutorial too)
 - [ ] one click sign up with fb/google
